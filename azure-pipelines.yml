@@ -6,6 +6,9 @@
 trigger:
 - master
 
+environment:
+ 'dev'
+
 pool:
   vmImage: 'windows-latest'
 
